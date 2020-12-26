@@ -1,1 +1,1 @@
-# OpenSkins-PluginInterface
+# OpenSkins-Common
